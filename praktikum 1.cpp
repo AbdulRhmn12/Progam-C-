@@ -227,6 +227,8 @@ int main()
   int i, j, min_idx;
   int temp1;
   string flag;
+  
+  cout << "Gondol";
 
   for (int i = 0; i < 10; i++)
   {
